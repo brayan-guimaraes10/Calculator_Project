@@ -1,4 +1,4 @@
-for i in range(0,999):
+for i in range(0,9999):
     entrada = input('Digite um número: ')
     entrada_2 = input('Digite outro número: ')
     operador = input('Insira um operador [* / - + ]: ')
